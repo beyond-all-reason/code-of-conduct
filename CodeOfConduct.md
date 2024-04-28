@@ -68,10 +68,11 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 ### 4. Griefing
 1. Griefing or actively working against your team is against the rules
 2. Examples of griefing include teamkilling, purposefully hurting/imprisoning, capturing or reclaiming allied units without consent or consistently throwing games with the intent to deny other team members a potential win
-3. Pausing when not needed with the intent to disrupt the game or purposefully unpausing to disrupt someone reconnecting without waiting a reasonable amount of time is also a form of griefing
-4. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
-5. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative account (“smurf”) accounts falls under this section
-6. Smurf accounts will be banned and warnings applied to the originating account
+3. Griefing does not include reclaiming or reviving wreckage/debris on the map, regardless of where it is located or which player owned the original unit/structure.
+4. Pausing when not needed with the intent to disrupt the game or purposefully unpausing to disrupt someone reconnecting without waiting a reasonable amount of time is also a form of griefing
+5. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
+6. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative account (“smurf”) accounts falls under this section
+7. Smurf accounts will be banned and warnings applied to the originating account
 
 ### 5. Unfair Advantages
 1. Custom widgets used on public servers must be made publicly available, we have a section on the discord specifically for it - #widget-downloads
