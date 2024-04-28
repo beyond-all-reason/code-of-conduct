@@ -47,7 +47,8 @@ This section contains things which are less specific and often less problematic 
 1. Dragging out clearly won games is poor form and undesirable
 2. Players may leave games for a variety of valid reasons. Players who make a habit of leaving ongoing matches extremely early risk being met with moderation action. Matches thought to suffer from issues (balance, bugs etc.) require a restart and can be stopped by calling a stop vote with `!cv stop` in chat.
 3. Leaving a game very early because you don't like the teams is also not acceptable, instead call a stop vote `!cv stop`. Note that leaving mid-game is acceptable as you are unlikely to disadvantage your allies to such an extent. If abused persistently it will be moderated.
-4. Pausing when not needed with the intent to disrupt the game or purposefully unpausing to disrupt someone reconnecting without waiting a reasonable amount of time is also a form of griefing
+4. Pausing when not needed, with the intent to disrupt the game, is not acceptable
+5. Purposefully unpausing to disrupt a player reconnecting or to disrupt a discussion/vote to kickban a misbehaving player, unless a reasonable amount of time has passed, is unsportsmanlike and to be avoided
 
 ## **Section B** - Rules for us all to have fun
 These are much clearer cut rules and reporting is a completely acceptable first response. If a moderator sees one of these take place they will likely use a formal warning as a starting point.
