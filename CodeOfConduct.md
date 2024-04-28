@@ -47,6 +47,7 @@ This section contains things which are less specific and often less problematic 
 1. Dragging out clearly won games is poor form and undesirable
 2. Players may leave games for a variety of valid reasons. Players who make a habit of leaving ongoing matches extremely early risk being met with moderation action. Matches thought to suffer from issues (balance, bugs etc.) require a restart and can be stopped by calling a stop vote with `!cv stop` in chat.
 3. Leaving a game very early because you don't like the teams is also not acceptable, instead call a stop vote `!cv stop`. Note that leaving mid-game is acceptable as you are unlikely to disadvantage your allies to such an extent. If abused persistently it will be moderated.
+4. Pausing when not needed with the intent to disrupt the game or purposefully unpausing to disrupt someone reconnecting without waiting a reasonable amount of time is also a form of griefing
 
 ## **Section B** - Rules for us all to have fun
 These are much clearer cut rules and reporting is a completely acceptable first response. If a moderator sees one of these take place they will likely use a formal warning as a starting point.
@@ -68,10 +69,9 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 ### 4. Griefing
 1. Griefing or actively working against your team is against the rules
 2. Examples of griefing include teamkilling, purposefully hurting/imprisoning, capturing or reclaiming allied units without consent or consistently throwing games with the intent to deny other team members a potential win
-3. Pausing when not needed with the intent to disrupt the game or purposefully unpausing to disrupt someone reconnecting without waiting a reasonable amount of time is also a form of griefing
-4. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
-5. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative account (“smurf”) accounts falls under this section
-6. Smurf accounts will be banned and warnings applied to the originating account
+3. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
+4. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative account (“smurf”) accounts falls under this section
+5. Smurf accounts will be banned and warnings applied to the originating account
 
 ### 5. Unfair Advantages
 1. Custom widgets used on public servers must be made publicly available, we have a section on the discord specifically for it - #widget-downloads
