@@ -70,13 +70,13 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 2. Examples of griefing include teamkilling, purposefully hurting/imprisoning, capturing or reclaiming allied units without consent or consistently throwing games with the intent to deny other team members a potential win
 3. Pausing when not needed with the intent to disrupt the game or purposefully unpausing to disrupt someone reconnecting without waiting a reasonable amount of time is also a form of griefing
 4. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
-5. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative account (“smurf”) accounts falls under this section
-6. Smurf accounts will be banned and warnings applied to the originating account
 
 ### 5. Unfair Advantages
 1. Custom widgets used on public servers must be made publicly available, we have a section on the discord specifically for it - #widget-downloads
 2. Purposefully passing on consequential information to a game in progress via things like spectator mode (we understand mistakes happen occasionally) is obviously a form of cheating
 3. Exploiting bugs, hacking or spec cheating (second account to view the game as a spectator) can result in swifter and more stringent responses than the above items
+4. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative account (“smurf”) accounts falls under this section
+5. Smurf accounts will be banned and warnings applied to the originating account
 
 ### 6. Communications abuse
 1. Abuse of the ping or draw functions to obscure teammate’s view is abuse
