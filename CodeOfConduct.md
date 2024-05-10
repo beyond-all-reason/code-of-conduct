@@ -45,7 +45,7 @@ This section contains things which are less specific and often less problematic 
 
 ### 4. Spoiling games
 1. Dragging out clearly won games is poor form and undesirable
-2. Players may leave games for a variety of valid reasons. Players who make a habit of leaving ongoing matches extremely early risk being met with moderation action. Matches thought to suffer from issues (balance, bugs etc.) require a restart and can be stopped by calling a stop vote with `!cv stop` in chat.
+2. Players may leave games for a variety of valid reasons. Players who make a habit of leaving ongoing matches long before they end risk being met with moderation action. Matches thought to suffer from issues (balance, bugs etc.) require a restart and can be stopped by calling a stop vote with `!cv stop` in chat.
 
 ## **Section B** - Rules for us all to have fun
 These are much clearer cut rules and reporting is a completely acceptable first response. If a moderator sees one of these take place they will likely use a formal warning as a starting point.
