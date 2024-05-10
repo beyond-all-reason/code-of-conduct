@@ -20,11 +20,11 @@ People disturbing or not respecting this will be reminded where needed. We reser
 We have only so many moderators and despite the large amounts of ☕ they consume they cannot be everywhere at once. There are three steps you can take when you see something inappropriate, depending on how severe the issue is depends on which step you can take:
 
 + **Report it:** Sometimes something is bad enough it needs to be reported, in such case you can do it by right-clicking on players name, and choosing "report" from the dropdown. Alternately you can submit the report using the following link: https://server4.beyondallreason.info/battle/ and finding the relevant match, then click the "players" tab and report the user from there.
-+ In case of having an active griefer in a game, **don't retaliate with force**, instead use some of available the self-moderation tools. Note that retaliating against grieving may result in moderation actions being taken against you. If you believe it is necessary to prevent someone from persisting in their abusive behavior, try:
++ In case of having an active griefer in a game, **don't retaliate with force**, instead use some of available the self-moderation tools. Note that retaliating against griefing may result in moderation actions being taken against you. If you believe it is necessary to prevent someone from persisting in their abusive behavior, try:
     + _pausing the game (Pause|Break button or /pause command)_
-    + !kickban <playername> _- calls a vote to kick from the lobby and temporarily ban_
+    + `!kickban <playername>` _- calls a vote to kick from the lobby and temporarily ban_
     + _make sure to explain it in chat so that others know why they should vote him out_
-    + _in case of verbal harassment or spamming you can also call a_ !mute _vote_
+    + _in case of verbal harassment or spamming you can also call a_ `!mute` _vote_
 + **Offer support:** If you see someone bullying someone else then stick up for them. This can be publicly by calling out bad behavior or privately messaging the person in question and giving them encouragement.
 + **Mute individually** - you can do it by right-clicking on players name in lobby and hosing "ignore" form the dropdown menu. To do it ingame use ctrl+left click on their name in the player list.
 
@@ -86,7 +86,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 
 ### 7. Abuse of the reporting/moderation system
 1. False or intentionally erroneous reports can result in loss of your ability to submit reports
-2. Trying to misrepresent the rules, especially to newer players is not acceptable
+2. Trying to misrepresent the rules, especially to newer players, is not acceptable
 
 ## **Section C** -  Unacceptable behavior
 These items are completely unacceptable. They will very rarely result in a warning to start with and in some cases can warrant permanent bans from a first offence. Given the severity of these items please report them and feel free to open a discord ticket for the moderation team to help ensure it’s noticed quickly.
