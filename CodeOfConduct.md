@@ -69,6 +69,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 1. Griefing or actively working against your team is against the rules
 2. Examples of griefing include teamkilling, purposefully hurting/imprisoning, capturing or reclaiming allied units without consent or consistently throwing games with the intent to deny other team members a potential win
 3. Griefing does not include reclaiming or reviving wreckage/debris on the map, regardless of where it is located or which player owned the original unit/structure.
+   - You should, however, avoid reclaiming wrecks of allied commanders self-destructed to boost a tech rush. *If on a map with plentiful energy reclaim trees, start your reclaim circle on a tree to only reclaim energy and avoid unfortunate accidents.*
 4. Pausing when not needed with the intent to disrupt the game or purposefully unpausing to disrupt someone reconnecting without waiting a reasonable amount of time is also a form of griefing
 5. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
 6. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative account (“smurf”) accounts falls under this section
