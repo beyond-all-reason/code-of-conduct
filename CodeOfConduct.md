@@ -20,11 +20,11 @@ People disturbing or not respecting this will be reminded where needed. We reser
 We have only so many moderators and despite the large amounts of ☕ they consume they cannot be everywhere at once. There are three steps you can take when you see something inappropriate, depending on how severe the issue is depends on which step you can take:
 
 + **Report it:** Sometimes something is bad enough it needs to be reported, in such case you can do it by right-clicking on players name, and choosing "report" from the dropdown. Alternately you can submit the report using the following link: https://server4.beyondallreason.info/battle/ and finding the relevant match, then click the "players" tab and report the user from there.
-+ In case of having an active griefer in a game, **don't retaliate with force**, instead use some of available the self-moderation tools. Note that retaliating against grieving may result in moderation actions being taken against you. If you believe it is necessary to prevent someone from persisting in their abusive behavior, try:
++ In case of having an active griefer in a game, **don't retaliate with force**, instead use some of available the self-moderation tools. Note that retaliating against griefing may result in moderation actions being taken against you. If you believe it is necessary to prevent someone from persisting in their abusive behavior, try:
     + _pausing the game (Pause|Break button or /pause command)_
-    + !kickban <playername> _- calls a vote to kick from the lobby and temporarily ban_
+    + `!kickban <playername>` _- calls a vote to kick from the lobby and temporarily ban_
     + _make sure to explain it in chat so that others know why they should vote him out_
-    + _in case of verbal harassment or spamming you can also call a_ !mute _vote_
+    + _in case of verbal harassment or spamming you can also call a_ `!mute` _vote_
 + **Offer support:** If you see someone bullying someone else then stick up for them. This can be publicly by calling out bad behavior or privately messaging the person in question and giving them encouragement.
 + **Mute individually** - you can do it by right-clicking on players name in lobby and hosing "ignore" form the dropdown menu. To do it ingame use ctrl+left click on their name in the player list.
 
@@ -71,23 +71,23 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 1. Griefing or actively working against your team is against the rules
 2. Examples of griefing include teamkilling, purposefully hurting/imprisoning, capturing or reclaiming allied units without consent or consistently throwing games with the intent to deny other team members a potential win
 3. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
-4. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative account (“smurf”) accounts falls under this section
-5. Smurf accounts will be banned and warnings applied to the originating account
 
 ### 5. Unfair Advantages
 1. Custom widgets used on public servers must be made publicly available, we have a section on the discord specifically for it - #widget-downloads
 2. Purposefully passing on consequential information to a game in progress via things like spectator mode (we understand mistakes happen occasionally) is obviously a form of cheating
 3. Exploiting bugs, hacking or spec cheating (second account to view the game as a spectator) can result in swifter and more stringent responses than the above items
+4. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative (“smurf”) account falls under this section
+5. Smurf accounts will be banned and warnings applied to the originating account
 
 ### 6. Communications abuse
-1. Abuse of the ping or draw functions to obscure teammate’s view is abuse
+1. Use of the ping or draw functions to obscure a teammate’s view is an abuse of those tools
 2. Inappropriate drawings (hate-symbols and such) are also communications abuse
 3. This includes flooding/spamming chat or calling repeated (pointless) votes
 4. Repeatedly joining rooms when asked to leave (e.g. by a closed group of friends who want to play together) is also not acceptable
 
 ### 7. Abuse of the reporting/moderation system
 1. False or intentionally erroneous reports can result in loss of your ability to submit reports
-2. Trying to misrepresent the rules, especially to newer players is not acceptable
+2. Trying to misrepresent the rules, especially to newer players, is not acceptable
 
 ## **Section C** -  Unacceptable behavior
 These items are completely unacceptable. They will very rarely result in a warning to start with and in some cases can warrant permanent bans from a first offence. Given the severity of these items please report them and feel free to open a discord ticket for the moderation team to help ensure it’s noticed quickly.
