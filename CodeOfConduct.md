@@ -79,7 +79,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 3. Exploiting bugs, hacking or spec cheating (second account to view the game as a spectator) can result in swifter and more stringent responses than the above items
 
 ### 6. Communications abuse
-1. Abuse of the ping or draw functions to obscure teammate’s view is abuse
+1. Use of the ping or draw functions to obscure a teammate’s view is an abuse of those tools
 2. Inappropriate drawings (hate-symbols and such) are also communications abuse
 3. This includes flooding/spamming chat or calling repeated (pointless) votes
 4. Repeatedly joining rooms when asked to leave (e.g. by a closed group of friends who want to play together) is also not acceptable
