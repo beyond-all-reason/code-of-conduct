@@ -51,6 +51,7 @@ This section contains things which are less specific and often less problematic 
 ### 5. Boss abuse
 1. Boss mode is a tool to facilitate a good experience for everyone. Using boss mode to abuse other players is not acceptable, and may result in removal of boss privileges.
 2. Examples of boss abuse include: kickbanning rule-abiding players after a match has begun, stopping matches because a player claimed a particular start position, and stopping matches to manipulate the skill rating system.
+   - if you are the boss of a lobby, you can still start a kickban *vote* on a player using `!cv kickban <playername>` ("coordinator vote") instead of `!kickban <playername>`.
 3. It is not boss abuse to remove a spectator from an ongoing match, or to remove a player from the pre-game lobby.
 
 ## **Section B** - Rules for us all to have fun
