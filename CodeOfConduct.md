@@ -34,6 +34,7 @@ This section contains things which are less specific and often less problematic 
 ### 1. We are a community
 1. Respect for all other members is mandatory
 2. Harassment and baiting of any community member, including developers and contributors, is not acceptable
+3. Intentionally making false accusations, with the intent to have a player removed from the game/lobby, is abusive. We understand that mistakes happen, and no one knows everything that goes on in each match they play.
 
 ### 2. Harassment or bullying
 1. Saying "it was just a joke" does not excuse this either; it's only a joke if all parties find it funny (including 3rd parties if it’s in a public situation)
