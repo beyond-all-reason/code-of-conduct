@@ -77,6 +77,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 3. Exploiting bugs, hacking or spec cheating (second account to view the game as a spectator) can result in swifter and more stringent responses than the above items
 4. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative (“smurf”) account falls under this section
 5. Smurf accounts will be banned and warnings applied to the originating account
+6. Account sharing is not permitted. This includes both using an account registered by someone else, and providing someone else with access to your account.
 
 ### 6. Communications abuse
 1. Use of the ping or draw functions to obscure a teammate’s view is an abuse of those tools
