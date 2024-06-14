@@ -34,6 +34,7 @@ This section contains things which are less specific and often less problematic 
 ### 1. We are a community
 1. Respect for all other members is mandatory
 2. Harassment and baiting of any community member, including developers and contributors, is not acceptable
+3. Intentionally making false accusations, with the intent to have a player removed from the game/lobby, is abusive. We understand that mistakes happen, and no one knows everything that goes on in each match they play.
 
 ### 2. Harassment or bullying
 1. Saying "it was just a joke" does not excuse this either; it's only a joke if all parties find it funny (including 3rd parties if it’s in a public situation)
@@ -45,10 +46,15 @@ This section contains things which are less specific and often less problematic 
 
 ### 4. Spoiling games
 1. Dragging out clearly won games is poor form and undesirable
-2. Players may leave games for a variety of valid reasons. Players who make a habit of leaving ongoing matches extremely early risk being met with moderation action. Matches thought to suffer from issues (balance, bugs etc.) require a restart and can be stopped by calling a stop vote with `!cv stop` in chat.
-3. Leaving a game very early because you don't like the teams is also not acceptable, instead call a stop vote `!cv stop`. Note that leaving mid-game is acceptable as you are unlikely to disadvantage your allies to such an extent. If abused persistently it will be moderated.
-4. Pausing when not needed, with the intent to disrupt the game, is not acceptable
-5. Purposefully unpausing to disrupt a player reconnecting or to disrupt a discussion/vote to kickban a misbehaving player, unless a reasonable amount of time has passed, is unsportsmanlike and to be avoided
+2. Players may leave games for a variety of valid reasons. Players who make a habit of leaving ongoing matches long before they end risk being met with moderation action. Matches thought to suffer from issues (balance, bugs etc.) require a restart and can be stopped by calling a stop vote with `!cv stop` in chat.
+3. Pausing when not needed, with the intent to disrupt the game, is not acceptable
+4. Purposefully unpausing to disrupt a player reconnecting or to disrupt a discussion/vote to kickban a misbehaving player, unless a reasonable amount of time has passed, is unsportsmanlike and to be avoided
+
+### 5. Boss abuse
+1. Boss mode is a tool to facilitate a good experience for everyone. Using boss mode to abuse other players is not acceptable, and may result in removal of boss privileges.
+2. Examples of boss abuse include: kickbanning rule-abiding players after a match has begun, stopping matches because a player claimed a particular start position, and stopping matches to manipulate the skill rating system.
+   - if you are the boss of a lobby, you can still start a kickban *vote* on a player using `!cv kickban <playername>` ("coordinator vote") instead of `!kickban <playername>`.
+3. It is not boss abuse to remove a spectator from an ongoing match, or to remove a player from the pre-game lobby.
 
 ## **Section B** - Rules for us all to have fun
 These are much clearer cut rules and reporting is a completely acceptable first response. If a moderator sees one of these take place they will likely use a formal warning as a starting point.
@@ -70,7 +76,9 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 ### 4. Griefing
 1. Griefing or actively working against your team is against the rules
 2. Examples of griefing include teamkilling, purposefully hurting/imprisoning, capturing or reclaiming allied units without consent or consistently throwing games with the intent to deny other team members a potential win
-3. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
+3. Griefing does not include reclaiming or reviving wreckage/debris on the map, regardless of where it is located or which player owned the original unit/structure.
+   - You should, however, avoid reclaiming wrecks of allied commanders self-destructed to boost a tech rush. *If on a map with plentiful energy reclaim trees, start your reclaim circle on a tree to only reclaim energy and avoid unfortunate accidents.*
+4. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
 
 ### 5. Unfair Advantages
 1. Custom widgets used on public servers must be made publicly available, we have a section on the discord specifically for it - #widget-downloads
@@ -78,6 +86,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 3. Exploiting bugs, hacking or spec cheating (second account to view the game as a spectator) can result in swifter and more stringent responses than the above items
 4. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative (“smurf”) account falls under this section
 5. Smurf accounts will be banned and warnings applied to the originating account
+6. Account sharing is not permitted. This includes both using an account registered by someone else, and providing someone else with access to your account.
 
 ### 6. Communications abuse
 1. Use of the ping or draw functions to obscure a teammate’s view is an abuse of those tools
