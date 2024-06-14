@@ -47,6 +47,8 @@ This section contains things which are less specific and often less problematic 
 ### 4. Spoiling games
 1. Dragging out clearly won games is poor form and undesirable
 2. Players may leave games for a variety of valid reasons. Players who make a habit of leaving ongoing matches long before they end risk being met with moderation action. Matches thought to suffer from issues (balance, bugs etc.) require a restart and can be stopped by calling a stop vote with `!cv stop` in chat.
+3. Pausing when not needed, with the intent to disrupt the game, is not acceptable
+4. Purposefully unpausing to disrupt a player reconnecting or to disrupt a discussion/vote to kickban a misbehaving player, unless a reasonable amount of time has passed, is unsportsmanlike and to be avoided
 
 ### 5. Boss abuse
 1. Boss mode is a tool to facilitate a good experience for everyone. Using boss mode to abuse other players is not acceptable, and may result in removal of boss privileges.
@@ -76,8 +78,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 2. Examples of griefing include teamkilling, purposefully hurting/imprisoning, capturing or reclaiming allied units without consent or consistently throwing games with the intent to deny other team members a potential win
 3. Griefing does not include reclaiming or reviving wreckage/debris on the map, regardless of where it is located or which player owned the original unit/structure.
    - You should, however, avoid reclaiming wrecks of allied commanders self-destructed to boost a tech rush. *If on a map with plentiful energy reclaim trees, start your reclaim circle on a tree to only reclaim energy and avoid unfortunate accidents.*
-4. Pausing when not needed with the intent to disrupt the game or purposefully unpausing to disrupt someone reconnecting without waiting a reasonable amount of time is also a form of griefing
-5. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
+4. If you are done with a game then resign; self destructing all your units in a team game can ruin the game for your team and is not acceptable
 
 ### 5. Unfair Advantages
 1. Custom widgets used on public servers must be made publicly available, we have a section on the discord specifically for it - #widget-downloads
