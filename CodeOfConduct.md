@@ -124,6 +124,6 @@ These items are completely unacceptable. They will very rarely result in a warni
 2. Extra accounts will be banned and repeated offences will escalate the initial punishment
 
 ## **Appeals** of Moderation Action
-If you feel that you have been the target of an erroneous or unjust moderation action, then you may appeal to the head of moderation on Discord via private messaging. Please note that the burden of proof also stands upon you, so please make sure to collect any replays or logs that you feel outline why the action was unjust. Complaining about moderation actions publicly or harassing moderators will not help your case.
+If you feel that you have been the target of an erroneous or unjust moderation action, then you may submit an appeal via the [#open-ticket channel on Discord](https://discord.com/channels/549281623154229250/1005537149564755989). You will be provided with details about why the moderation action was applied and, when you are ready, your appeal will be sent to a wider group for consideration. Complaining about moderation actions publicly or harassing moderators will not help your case.
 
 _We hope you never need to visit/read this page, because that would mean everybody already understands that being nice is simply awesome._
