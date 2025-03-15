@@ -69,8 +69,8 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 3. Abuse especially on the grounds or context of sexism, racism, homophobia, disability, religion, ancestry and similar is never acceptable
 
 ### 3. Offensive names
-1. Nicknames and clan tags must not be offensive or inappropriate
-2. Impersonation of other players and real-life figures is also forbidden
+1. Player usernames must not contain references to modern political figures, contemporary movements, or historically controversial leaders. This includes, but is not limited to, the names of 20th and 21st-century politicians, extremist leaders, and politically charged phrases. Historical figures from before the modern era (e.g., Napoleon, Julius Caesar) may be permitted, but moderation team reserves the right to reject names that could be deemed offensive or disruptive. 
+2. Impersonation of other players, developers and real-life figures is forbidden
 3. An account which doesn't abide by this rule will be suspended until it gets renamed
 
 ### 4. Griefing
