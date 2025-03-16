@@ -1,4 +1,4 @@
-# Overview
+g# Overview
 We like to keep the BAR ecosystem as fun and welcoming as possible. As such, we prepared a simple set of rules to regulate our online community. These rules apply to all games and chat hosted on official BAR servers.
 
 All of us are responsible for creating and contributing to a positive community and all of us can be held accountable so please take the time to read this. You will be held accountable for your actions regardless of whether have read this. 
@@ -21,14 +21,14 @@ At the root of our expectation is for players to be civil and nice to each other
 ## **What to do** when you see this code of conduct not being followed
 We have only so many moderators and despite the large amounts of ☕ they consume they cannot be everywhere at once. There are three steps you can take when you see something inappropriate, depending on how severe the issue is depends on which step you can take:
 
-+ **Report it:** If is bad enough that it needs to be reported, you can do report ingame by right-clicking on players name, and choosing "report" from the dropdown. Alternatatively, you can submit the report using the following link: https://server4.beyondallreason.info/battle/ and finding the relevant match, then clicking the "players" tab and reporting the user from there.
++ **Report it:** If something is bad enough that it needs to be reported, you can report ingame by right-clicking on players name, and choosing "report" from the dropdown. Alternatatively, you can submit the report using the following link: https://server4.beyondallreason.info/battle/ and finding the relevant match, then clicking the "players" tab and reporting the user from there.
 + In case of having an active griefer in a game, **don't retaliate with force**. Instead, use some of available the self-moderation tools. Note that retaliating against griefing may result in moderation actions being taken against you. If you believe it is necessary to prevent someone from persisting in their abusive behavior, try:
     + _pausing the game (Pause|Break button or /pause command)_
     + `!kickban <playername>` _- calls a vote to kick and temporarily ban the player from the lobby _
     + _make sure to explain it in chat so that others know why they should vote him out_
     + _in case of verbal harassment or spamming you can also call a_ `!mute` _vote_
 + **Offer support:** Stick up for people being bullied. Publicly calling out bad behavior and privately messaging the person in question and giving them support are examples of ways you can stick up for people being bullied.
-+ **Mute individually** - you can do mute individual players by right-clicking on their name in lobby and choosing "ignore" from the dropdown menu. To mute ingame, ctrl+left click on their name in the player list.  Note that a total mute requires both ingame and lobby chat to be muted.
++ **Mute individually** - you can mute individual players by right-clicking on their name in lobby and choosing "ignore" from the dropdown menu. To mute ingame, ctrl+left click on their name in the player list. Note that ingame and lobby mutes are different and separate.
 
 ## **Section A** - Be nice to each other
 This section contains things which are less specific and often less problematic in small doses; they're also things people may do by mistake. While they are reportable in many cases, communication and education will bring about a better result.
@@ -69,7 +69,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 ### 2. Discrimination
 1. Discriminating against someone for who/what they are is not acceptable. Discrimination can take the form of speech but also actions (e.g. kicking them from games).
 2. It is completely acceptable to remove players from game as a response to problematic behavior but be careful not to cross the line to vigilantism.
-3. Abuse especially on the grounds or context of gender, race, orientation, disability, religion, ancestry, nationality, and similar is never acceptable
+3. Abuse especially on the grounds or context of gender, race, orientation, disability, religion, ancestry, nationality, and similar is never acceptable.
 
 ### 3. Offensive names
 1. Nicknames and clan tags must not be offensive, inappropriate or contain politically charged phrases.
@@ -86,7 +86,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 
 ### 5. Unfair Advantages
 1. Custom widgets used on public servers must be made publicly available on the offical BAR discord channel [#widgets](https://discord.com/channels/549281623154229250/1113845509891829810).
-2. Purposefully passing on consequential information to a game in progress via things like spectator mode (we understand mistakes happen occasionally) is obviously a form of cheating.
+2. Purposefully passing on consequential information to a game in progress via things like spectator chat (we understand mistakes happen occasionally) is obviously a form of cheating.
 3. Pausing the game for tactical purposes is a form of cheating.
 4. Exploiting bugs, hacking or spec cheating (second account to view the game as a spectator) can result in swifter and more stringent responses than the above items.
 5. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative (“smurf”) account falls under this section.
