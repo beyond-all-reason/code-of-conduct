@@ -21,7 +21,7 @@ At the root of our expectation is for players to be civil and nice to each other
 ## **What to do** when you see this code of conduct not being followed
 We have only so many moderators and despite the large amounts of ☕ they consume they cannot be everywhere at once. There are three steps you can take when you see something inappropriate, depending on how severe the issue is depends on which step you can take:
 
-+ **Report it:** If something is bad enough that it needs to be reported, you can report ingame by right-clicking on players name, and choosing "report" from the dropdown. Alternatatively, you can submit the report using the following link: https://server4.beyondallreason.info/battle/ and finding the relevant match, then clicking the "players" tab and reporting the user from there.
++ **Report it:** If something is bad enough that it needs to be reported, you can report ingame by right-clicking on players name, and choosing "report" from the dropdown. Alternatively, you can submit the report using the following link: https://server4.beyondallreason.info/battle/ and finding the relevant match, then clicking the "players" tab and reporting the user from there.
 + In case of having an active griefer in a game, **don't retaliate with force**. Instead, use some of available the self-moderation tools. Note that retaliating against griefing may result in moderation actions being taken against you. If you believe it is necessary to prevent someone from persisting in their abusive behavior, try:
     + _pausing the game (Pause|Break button or /pause command)_
     + `!kickban <playername>` _- calls a vote to kick and temporarily ban the player from the lobby _
