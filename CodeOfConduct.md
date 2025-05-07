@@ -97,7 +97,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 
 ### 6. Communications abuse
 1. Use of the ping or draw functions to obscure a teammate’s view is an abuse of those tools.
-2. Inappropriate drawings (hate-symbols and such) are also communications abuse.
+2. Inappropriate drawings (hate-symbols, sexual or obscene imagery and such) are also communications abuse.
 3. This includes flooding/spamming chat or calling repeated (pointless) votes.
 4. Repeatedly joining rooms when asked to leave (e.g. by a closed group of friends who want to play together) is also not acceptable.
 
@@ -121,7 +121,7 @@ These items are completely unacceptable. They will very rarely result in a warni
 ### 3. Hacking
 1. Attempting to hack another player's account or the game infrastructure is not acceptable.
 2. If you wish to perform security testing contact the developers.
-3. If you identify a vulnerability by mistake please take care to not exploit it. Instead speak to the developers; we'd be very happy to learn about the vulnerability.
+3. If you identify a vulnerability by mistake please take care to not exploit it. Instead, speak to the developers; we'd be very happy to learn about the vulnerability.
 
 ### 4. Doxxing
 1. Revealing personal or identifiable information about another player they've not already revealed themselves is not allowed.
