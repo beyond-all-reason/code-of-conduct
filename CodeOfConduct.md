@@ -70,7 +70,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 ### 2. Discrimination
 1. Discriminating against someone for who/what they are is not acceptable. Discrimination can take the form of speech but also actions (e.g. kicking them from games).
 2. Abuse especially on the grounds or context of gender, race, sexual orientation, disability, religion, ancestry, nationality, and similar is never acceptable.
-3. It is completely acceptable to remove players from a game as a response to discriminatory behavior but don't engage in vigilantism or harrassment.
+3. It is completely acceptable to remove players from a game as a response to discriminatory behavior but don't engage in vigilantism or harassment.
 
 
 ### 3. Offensive names
